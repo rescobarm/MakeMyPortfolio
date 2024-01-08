@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MakeMyPortfolio",
   "resources": {
-    "hash": "sha256-e2kxGj+IsYZ0cDPpKT8aQtaZc+gzhcGMteD7Yi4BJmM=",
+    "hash": "sha256-ejJeJZkgE2SWv3eTporTRZv4YrzgfgcGLlxIX4eLWqg=",
     "jsModuleNative": {
       "dotnet.native.8.0.0.45ykigla5r.js": "sha256-LjLDIz9+J7uuiwMlQ4HbNx2BnSpphOtO2MwkoI28vdI="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "MakeMyPortfolio.wasm": "sha256-LBaMm8IL870aqw6FBVaTRtv5RErGaJeh0exQMXdWZOc=",
+      "MakeMyPortfolio.wasm": "sha256-/rMA8qprL+DDhnY0mktH9Hetsl4FOGvvXEtM5Y8AnQ0=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-GdTbRLqkYi5wTmON2gG9uDCxQCnMubAznBN7f5lELHA=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-x1l9FugwmzqFxwxkt3kOnovSq5wZENn7KUGUGxelDy4=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-XnRvKHJAXtjjgU4guss8xNlkq4CgnHUmH2YI79H6QMg=",
@@ -61,9 +61,11 @@
       "System.Text.RegularExpressions.wasm": "sha256-3TnJ+gFbcLQWd64dQi9CTds871jRDrawlfFObiJJADY="
     },
     "libraryInitializers": {
+      "_content/Microsoft.Fast.Components.FluentUI/Microsoft.Fast.Components.FluentUI.lib.module.js": "sha256-KmStalW8gmoilDTUmrdqfWTdlDmb3HXsuuE3Eaw05tM=",
       "_content/Microsoft.FluentUI.AspNetCore.Components/Microsoft.FluentUI.AspNetCore.Components.lib.module.js": "sha256-oP5MXJVHm/QWI48ugC7zPxbAZ1c2cDNtI8pghRC31Gk="
     },
     "modulesAfterConfigLoaded": {
+      "../_content/Microsoft.Fast.Components.FluentUI/Microsoft.Fast.Components.FluentUI.lib.module.js": "sha256-KmStalW8gmoilDTUmrdqfWTdlDmb3HXsuuE3Eaw05tM=",
       "../_content/Microsoft.FluentUI.AspNetCore.Components/Microsoft.FluentUI.AspNetCore.Components.lib.module.js": "sha256-oP5MXJVHm/QWI48ugC7zPxbAZ1c2cDNtI8pghRC31Gk="
     }
   },
