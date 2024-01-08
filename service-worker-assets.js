@@ -65,11 +65,11 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-QV4f0Kxvwf01uGhIOpL3DJhK4LjNaLJYFn3U+HlGH8A=",
+      "hash": "sha256-O64t0II2nOq6ZUhOWHa+2BnT69U+\/8MFNvTi\/mPoXGI=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-\/rMA8qprL+DDhnY0mktH9Hetsl4FOGvvXEtM5Y8AnQ0=",
+      "hash": "sha256-Kz3KToOILUEqowAt278i4J9bY6XfwirWu\/ENj2Xj7IU=",
       "url": "_framework\/MakeMyPortfolio.wasm"
     },
     {
@@ -1397,5 +1397,5 @@
       "url": "_content\/Microsoft.FluentUI.AspNetCore.Components\/Microsoft.FluentUI.AspNetCore.Components.lib.module.js"
     }
   ],
-  "version": "HuFjjPiw"
+  "version": "uZnKN19B"
 };
