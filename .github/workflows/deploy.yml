@@ -21,7 +21,7 @@ jobs:
         dotnet-version: '8.0.x'
     - name: Publish with dotnet
       run: dotnet publish --configuration Release --output build
-    - name: Adjust base-tag in index.html
+    #- name: Adjust base-tag in index.html
       #run: sed -i 's/\(mmp.maadre.dev\/\)\1/\1/g' build/wwwroot/index.html
       #run: sed -i 's/<base href="\/" \/>/<base href="\/MakeMyPortfolio\/" \/>/g' build/wwwroot/index.html
     - name: Commit wwwroot to GitHub Pages
