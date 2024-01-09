@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "MakeMyPortfolio",
   "resources": {
-    "hash": "sha256-RUYUl1lUSaE5OzAPe5B7MkePtEZJw4aWt99xLmqxsi4=",
+    "hash": "sha256-3jacLhU1lfR7bJK8w99klFDsngkRIPTL9uO2niWFtGw=",
     "jsModuleNative": {
       "dotnet.native.8.0.0.45ykigla5r.js": "sha256-LjLDIz9+J7uuiwMlQ4HbNx2BnSpphOtO2MwkoI28vdI="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "MakeMyPortfolio.wasm": "sha256-dL8Df/kCqlrAshV2RgFuwbStrMD5dT7oYZT+10Wv8iM=",
+      "MakeMyPortfolio.wasm": "sha256-oRHGn4Uq2D7eQ73Pv60+jrHNg2MfJ/+J4iJVw8lApbA=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-GdTbRLqkYi5wTmON2gG9uDCxQCnMubAznBN7f5lELHA=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-x1l9FugwmzqFxwxkt3kOnovSq5wZENn7KUGUGxelDy4=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-XnRvKHJAXtjjgU4guss8xNlkq4CgnHUmH2YI79H6QMg=",
