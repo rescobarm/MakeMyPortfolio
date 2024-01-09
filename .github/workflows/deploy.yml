@@ -22,7 +22,7 @@ jobs:
     - name: Publish with dotnet
       run: dotnet publish --configuration Release --output build
     - name: Change base-tag in index.html from /mmp.maadre.dev to /
-      run: sed -i 's/<base href="\/mmp.maadre.dev" \/>/<base href="\/\/" \/>/g' build/wwwroot/index.html
+      run: sed -i 's/<base href="\/mmp.maadre.dev" \/>/<base href="\/MakeMyPortfolio\/" \/>/g' build/wwwroot/index.html
     - name: Commit wwwroot to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@3.7.1
       with:
